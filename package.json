@@ -4,6 +4,8 @@
   "description": "",
   "scripts": {},
   "dependencies": {
+    "@anthropic-ai/claude-code": "latest",
+    "claude-flow": "alpha",
     "skillfish": "latest"
   }
 }
